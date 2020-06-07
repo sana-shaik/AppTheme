@@ -13,14 +13,8 @@ https://fontawesome.com/icons?d=gallery
 ### Home Page
 
 ![image](https://user-images.githubusercontent.com/45564856/83962468-477dd100-a8bb-11ea-8b04-ac4e0c7208c7.png)
-
 ![image](https://user-images.githubusercontent.com/45564856/83962550-f4f0e480-a8bb-11ea-89ca-d0ec1f3f174d.png)
-
 ![image](https://user-images.githubusercontent.com/45564856/83962566-0afea500-a8bc-11ea-8b8d-74f3b57544dd.png)
-
-![image](https://user-images.githubusercontent.com/45564856/83962479-6aa88080-a8bb-11ea-9ffa-143452707038.png)
-
-![image](https://user-images.githubusercontent.com/45564856/83962489-7c8a2380-a8bb-11ea-8641-beb82e98fe50.png)
 
 ### About Page
 
